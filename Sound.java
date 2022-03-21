@@ -1,9 +1,9 @@
 class Sound {
 	public static void main(String args[]) {
 		double dist;
-		
+
 		dist = 1100 * 7.2;
 
-		System.out.println("Расстояние до места вспышки молнии " + "составляет " + dist + " футов");
+		System.out.println("Р Р°СЃСЃС‚РѕСЏРЅРёРµ РґРѕ РјРµСЃС‚Р° РІСЃРїС‹С€РєРё РјРѕР»РЅРёРё " + "СЃРѕСЃС‚Р°РІР»СЏРµС‚ " + dist + " С„СѓС‚РѕРІ");
 	}
 }
