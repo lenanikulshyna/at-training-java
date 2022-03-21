@@ -6,7 +6,7 @@ class GalToLitTable {
 		counter = 0;
 		for(gallons = 1; gallons <= 100; gallons ++) {
 			liters = gallons * 3.7854;
-			System.out.println(gallons + " ãàëëîíàì ñîîòâåòñòâóåò " + liters + " ëèòðà.");
+			System.out.println(gallons + " Ð³Ð°Ð»Ð»Ð¾Ð½Ð°Ð¼ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ " + liters + " Ð»Ð¸Ñ‚Ñ€Ð°.");
 
 			counter++;
 			if(counter==10) {
@@ -15,5 +15,4 @@ class GalToLitTable {
 			}
 		}
 	}
-}			
-			
+}
