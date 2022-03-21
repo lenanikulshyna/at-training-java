@@ -7,14 +7,14 @@ class Example3 {
 
 		x = 10.0;
 
-		System.out.println("Начальное значение переменной var: " + var);
-		System.out.println("Начальное значение переменной x: " + x);
+		System.out.println("РќР°С‡Р°Р»СЊРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РїРµСЂРµРјРµРЅРЅРѕР№ var: " + var);
+		System.out.println("РќР°С‡Р°Р»СЊРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РїРµСЂРµРјРµРЅРЅРѕР№ x: " + x);
 		System.out.println();
 
 		var = var/4;
 		x = x/4;
 
-		System.out.println("Значение перменной var после деления: " + var);
-		System.out.println("Значение переменной x после деления: " + x);
+		System.out.println("Р—РЅР°С‡РµРЅРёРµ РїРµСЂРјРµРЅРЅРѕР№ var РїРѕСЃР»Рµ РґРµР»РµРЅРёСЏ: " + var);
+		System.out.println("Р—РЅР°С‡РµРЅРёРµ РїРµСЂРµРјРµРЅРЅРѕР№ x РїРѕСЃР»Рµ РґРµР»РµРЅРёСЏ: " + x);
 	}
 }
