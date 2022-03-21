@@ -6,9 +6,9 @@ class BlockDemo {
 		j = 10;
 
 		if(i !=0) {
-			System.out.println("i �� ����� ����")
+			System.out.println("i не равно нулю");
 			d = j / i;
-			System.out.println("j / i ����� " +d);
+			System.out.println("j / i равно " +d);
 		}
 	}
 }
