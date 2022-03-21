@@ -6,7 +6,7 @@ class GalToLit {
 		gallons = 10;
 		liters = gallons * 3.7854;
 
-		System.out.println(gallons + " галлонам соответствует " + liters + " литра");
+		System.out.println(gallons + " РіР°Р»Р»РѕРЅР°Рј СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ " + liters + " Р»РёС‚СЂР°");
 	}
 }
 		
