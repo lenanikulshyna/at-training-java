@@ -1,10 +1,10 @@
 class ForDemo {
 	public static void main(String args[]) {
 		int count;
-		
-		for(count = 0; count < 5; count ++)
-		System.out.println("Çíà÷åíèå ñ÷åò÷èêà: " + count);
 
-		System.out.println("Ãîòîâî!");
+		for(count = 0; count < 5; count ++)
+		System.out.println("Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ñ‡Ð¸ÐºÐ°: " + count);
+
+		System.out.println("Ð“Ð¾Ñ‚Ð¾Ð²Ð¾!");
 	}
 }
