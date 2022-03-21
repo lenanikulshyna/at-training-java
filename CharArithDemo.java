@@ -1,14 +1,14 @@
 class CharArithDemo {
 	public static void main(String args[]) {
 		char ch;
-	
+
 		ch = 'X';
-		System.out.println("ch содержит " + ch);
+		System.out.println("ch СЃРѕРґРµСЂР¶РёС‚ " + ch);
 
 		ch++;
-		System.out.println("теперь ch содержит " + ch);
+		System.out.println("С‚РµРїРµСЂСЊ ch СЃРѕРґРµСЂР¶РёС‚ " + ch);
 
 		ch = 90;
-		System.out.println("теперь ch содержит " + ch);
+		System.out.println("С‚РµРїРµСЂСЊ ch СЃРѕРґРµСЂР¶РёС‚ " + ch);
 	}
 }
